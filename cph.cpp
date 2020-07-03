@@ -1,3 +1,6 @@
+/*
+Question 1 was to find lexographically smallest sub-sequence of a given length k from a given string of non-capital alphabets. Eg, if string is bacb and k = 2, then output will be ab.
+*/
 #include <bits/stdc++.h> 
 using namespace std; 
 #define int long long
